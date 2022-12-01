@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas-Monsegu, I love to create cools projects.
+- 👋 Hi, I’m Lucas-Monsegu, I love to create cool projects.
 
 <!---
 Lucas-Monsegu/Lucas-Monsegu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
